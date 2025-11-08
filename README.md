@@ -31,7 +31,16 @@ The app follows a clean, layered architecture inspired by the latest [Flutter gu
 
 ## Screenshots
 
-![Welcome Screen](screenshots/onboarding1.png) ![Features Screen](screenshots/onboarding2.png) ![Get Started](screenshots/onboarding3.png) ![Marketplace](screenshots/home.png) ![Chat Interface](screenshots/interact-with-model1.png) ![Response View](screenshots/interact-with-model2.png) ![Create Agent](screenshots/create-agents.png) ![My Agents](screenshots/my-agents.png)
+<p align="center">
+  <img src="screenshots/onboarding1.png" alt="Welcome Screen" height="400" />
+  <img src="screenshots/onboarding2.png" alt="Features Screen" height="400" />
+  <img src="screenshots/onboarding3.png" alt="Get Started" height="400" />
+  <img src="screenshots/home.png" alt="Marketplace" height="400" />
+  <img src="screenshots/interact-with-model1.png" alt="Chat Interface" height="400" />
+  <img src="screenshots/interact-with-model2.png" alt="Response View" height="400" />
+  <img src="screenshots/create-agents.png" alt="Create Agent" height="400" />
+  <img src="screenshots/my-agents.png" alt="My Agents" height="400" />
+</p>
 
 ## Authentication
 
