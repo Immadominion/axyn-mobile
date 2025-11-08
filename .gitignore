@@ -1,0 +1,52 @@
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+.idea/
+.vscode/
+.metadata
+*.iml
+coverage/
+flutter_export_environment.sh
+**/*.lock
+**/*.generated.dart
+**/*.g.dart
+.DS_Store
+
+# Environment variables (sensitive data)
+.env
+.env.*
+!.env.example
+
+# Secure storage and keys
+*.keystore
+*.jks
+*.p12
+*.key
+*.pem
+google-services.json
+GoogleService-Info.plist
+
+# Local configuration
+ios/Flutter/flutter_export_environment.sh
+android/local.properties
+android/key.properties
+
+# Build artifacts
+*.apk
+*.aab
+*.ipa
+*.app
+*.dSYM.zip
+*.dSYM
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+.fvm/
